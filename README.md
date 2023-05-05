@@ -1,4 +1,4 @@
-![logo](https://github.com/Binary0101Devil/blob/main/Devil.jpg)
+![logo](https://github.com/Binary0101Devil/about-me/blob/main/Devil.jpg)
 
 
 # - Hi, I’m @Aniket_Tomar 👋 
