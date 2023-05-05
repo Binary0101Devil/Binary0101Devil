@@ -1,4 +1,4 @@
-![logo](https://github.com/CyberPlatoon/CyberPlatoon/blob/main/devil.jpg)
+![logo](https://github.com/Binary0101Devil/blob/main/Devil.jpg)
 
 
 # - Hi, I’m @Aniket_Tomar 👋 
