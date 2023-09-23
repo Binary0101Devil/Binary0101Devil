@@ -1,12 +1,40 @@
+<img src="https://github.com/Binary0101Devil/Network-Penetration-Testing/blob/main/AD_Penetration-Testing/binary0101devil.png" width="900" height="600">
+ 
+ # 📫 How to reach me...
+  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Binary0101Devil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aniket-tomar-1a735b232)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/binary0101devil?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)
+[![Website](https://img.shields.io/badge/Website-113B92?style=for-the-badge&logo=Website&logoColor=white)](https://binary0101devil.in/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/7489062662)
+
+#### 📧 Let's Connect!🌱Feel free to reach out for💞️collaboration opportunities. </br> 💼 Open to exciting projects and cybersecurity challenges! Let's secure the digital world together.🌐🔐
+
+🔒🚀 [**Aniket Tomar**](https://github.com/Binary0101Devil)  </br>
+**Penetration Tester CUM Security Auditor** at **Phoenix TechnoCyber**👋
 
 
+🔍 Certified Ethical Hacker (CEH) - EC-Council 🎓</br>
+🔍 eLearnSecurity Junior Penetration Tester (eJPT) - eLearnSecurity 🎓
 
-# - Hi, I’m @Aniket_Tomar 👋 
-  - Works At phoenix Technocyber ----->>>>> https://p-technocyber.com/
-  - As Security Auditor
-# - Interested in Learning Because ----->>>>> 🌱 I’m -Good Learner & Good Friend...
-# - But I never seen that person who can afford me 
-  - 💞️ I’m Not looking to collaborate on...
-  - 📫 How to reach me... ----->>>>> ...............Soon.......
+🌟 **Expertise:**
+- 💻 Website, Android, iOS, Cloud, API, Internal Network & Hosted Infrastructure Penetration Testing
+- 🌐 Cyber Security Awareness Training
+- 🔍 Dark web and Deep web monitoring
+- 🛡️ MITRE ATTACK
+- 🔥 Firewall Configuration
+- 🦠 Antivirus Configuration
+- 📊 Logs Monitoring
+- 🔐 Device Hardening
+- 💬 Technical Support
 
-# Binary0101Devil
+💼 **Experience:**
+- Seven Months at [IntelliPlanner Software Systems, Inc.](https://www.intelliplanner.com/)
+
+💪 **Skills:** HTML, CSS, XML, JAVA, PYTHON, JAVASCRIPT, SQL, Bash Scripting, AWS, AZURE, GCP
+
+🏆 **CTF Enthusiast:** 🚀
+- 🌐[TryHackMe](https://tryhackme.com/)
+- 🔓[Hack the Box](https://www.hackthebox.eu/)
+- 🗝️[Over the Wire](http://overthewire.org/)
+- 🕵️[Vulnhub](https://www.vulnhub.com/)
