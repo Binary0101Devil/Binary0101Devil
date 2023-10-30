@@ -1,5 +1,3 @@
-<img src="https://github.com/Binary0101Devil/Network-Penetration-Testing/blob/main/AD_Penetration-Testing/binary0101devil.png" width="900" height="600">
- 
  # 📫 How to reach me...
   
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://binary0101devil.gitbook.io/blogs)
@@ -39,3 +37,5 @@
 - 🔓[Hack the Box](https://www.hackthebox.eu/)
 - 🗝️[Over the Wire](http://overthewire.org/)
 - 🕵️[Vulnhub](https://www.vulnhub.com/)
+<img src="https://github.com/Binary0101Devil/Network-Penetration-Testing/blob/main/AD_Penetration-Testing/binary0101devil.png" width="900" height="600">
+ 
