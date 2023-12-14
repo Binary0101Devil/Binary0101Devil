@@ -14,6 +14,7 @@
 
 
 🔍 Certified Ethical Hacker (CEH) - EC-Council 🎓</br>
+🔍 Ethical Hacking Essentials(EHE)- EC-Council 🎓</br>
 🔍 eLearnSecurity Junior Penetration Tester (eJPT) - eLearnSecurity 🎓
 
 🌟 **Expertise:**
