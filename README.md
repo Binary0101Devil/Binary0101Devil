@@ -9,34 +9,8 @@
 
 #### 📧 Let's Connect!🌱Feel free to reach out for💞️collaboration opportunities. </br> 💼 Open to exciting projects and cybersecurity challenges! Let's secure the digital world together.🌐🔐
 
-🔒🚀 [**Aniket Tomar**](https://github.com/Binary0101Devil)  </br>
-**Penetration Tester CUM Security Auditor** at **Phoenix TechnoCyber**👋
+🔒🚀 **Aniket Tomar** </br> [![Website](https://img.shields.io/badge/Website-113B92?style=for-the-badge&logo=Website&logoColor=white)](https://binary0101devil.in/)
 
 
-🔍 Certified Ethical Hacker (CEH) - EC-Council 🎓</br>
-🔍 Ethical Hacking Essentials(EHE)- EC-Council 🎓</br>
-🔍 eLearnSecurity Junior Penetration Tester (eJPT) - eLearnSecurity 🎓
-
-🌟 **Expertise:**
-- 💻 Website, Android, iOS, Cloud, API, Internal Network & Hosted Infrastructure Penetration Testing
-- 🌐 Cyber Security Awareness Training
-- 🔍 Dark web and Deep web monitoring
-- 🛡️ MITRE ATTACK
-- 🔥 Firewall Configuration
-- 🦠 Antivirus Configuration
-- 📊 Logs Monitoring
-- 🔐 Device Hardening
-- 💬 Technical Support
-
-💼 **Experience:**
-- Seven Months at [IntelliPlanner Software Systems, Inc.](https://www.intelliplanner.com/)
-
-💪 **Skills:** HTML, CSS, XML, JAVA, PYTHON, JAVASCRIPT, SQL, Bash Scripting, AWS, AZURE, GCP
-
-🏆 **CTF Enthusiast:** 🚀
-- 🌐[TryHackMe](https://tryhackme.com/)
-- 🔓[Hack the Box](https://www.hackthebox.eu/)
-- 🗝️[Over the Wire](http://overthewire.org/)
-- 🕵️[Vulnhub](https://www.vulnhub.com/)
 <img src="https://github.com/Binary0101Devil/Network-Penetration-Testing/blob/main/AD_Penetration-Testing/binary0101devil.png" width="900" height="600">
  
